@@ -1,0 +1,125 @@
+body {
+    font-family: "Poppins", sans-serif !important;
+    scroll-behavior: smooth !important;
+}
+
+.btn {
+    border: none;
+    width: 100px;
+    border-radius:  20px;
+    color: black;
+}
+
+.btn:hover {
+    background-color: #4b208c;
+    border-radius:  20px;
+    color: white;
+}
+
+.btn:focus {
+    background-color: #4b208c;
+    border-radius:  20px;
+    color: white;
+}
+
+.btn2 {
+    background-color: #4b208c;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+.btn2:hover {
+    background-color: #5b398f;
+}
+
+.card {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+    width: 400px !important;
+    border: none;
+    border-radius: 15px;
+    padding: 35px 25px 25px;
+    height: 300px;
+}
+
+.h1 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #4b208c;
+    margin-left:  10px;
+    margin-top: 20px;
+}
+
+.read {
+    background-color: #4b208c;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 900px;
+    margin-top: 80px;
+    font-weight: bold;
+}
+
+.read:hover {
+    background-color: #5b398f;
+}
+
+.read2 {
+    background-color: #4b208c;
+    color: white;
+    width: 170px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 315px;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.card2 {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+    width: 500px !important;
+    margin-top: 30px;
+}
+
+.btn3 {
+    background-color: #4b208c;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 0px;
+    margin-left: 390px;
+    margin-top: 30px;
+    font-weight: 500;
+    outline: none;
+}
+
+.btn3:hover {
+    background-color: #5b398f;
+}
+
+.btn4 {
+    height: 50px;
+    border: none;
+    margin-left: -10px;
+    background-color: #4b208c;
+    color: white;
+    width: 300px;
+}
+
+.btn4:hover {
+    background-color: #5b398f;
+}
+
+.img2 {
+    width: 35px;
+    margin-right: 8px;
+    margin-top: 55px;
+}
